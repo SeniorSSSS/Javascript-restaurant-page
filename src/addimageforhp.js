@@ -1,4 +1,4 @@
-import Resimage from './resimage.jpeg';
+import Resimage from './resimageforhp.jpeg';
 
 //the other module will call this function which will be imported to that page.
 export function imageadderfunction() {
